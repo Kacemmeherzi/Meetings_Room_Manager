@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kacemmeherzi/Meetings_Room_Manager_ExpressJs.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Kacemmeherzi/Meetings_Room_Manager_Frontend.git
